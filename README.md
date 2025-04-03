@@ -82,6 +82,8 @@ The model correctly classified it as NORMAL, confirming its reliability.
 
 How to Use
 
+model link : https://drive.google.com/file/d/1-AdxGtKpkaxwyZdF12YJ3dpjpnCkrQ3B/view?usp=drive_link
+
 1️⃣ Install Dependencies
 
 Ensure TensorFlow and required libraries are installed.
